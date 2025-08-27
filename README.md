@@ -1,6 +1,12 @@
 # MailAutomation
 
 A Python script for **automated email sending**.  
+
+> **Why use a local debug server?**  
+> The local debug server allows you to **test email sending safely** without actually sending emails to real recipients.  
+> It prints email content to the console, so you can verify formatting, subject, and body before using a real Gmail account.  
+> This prevents accidental spam or sending test emails to someone by mistake.
+
 Supports both **local debug server** testing (no real emails sent) and **real Gmail SMTP** sending.
 
 ---
