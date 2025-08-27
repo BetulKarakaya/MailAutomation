@@ -18,8 +18,8 @@ Supports both **local debug server** testing (no real emails sent) and **real Gm
 
 1. Clone the repository:
 ```bash
-git clone <repo_url>
-cd mail_automation
+git clone https://github.com/BetulKarakaya/MailAutomation
+cd smtplib_mail_automation_github
 ```
 
 
